@@ -1,0 +1,15 @@
+{
+  "name": "candy-light-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A bright and colorful light syntax theme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/candy-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
